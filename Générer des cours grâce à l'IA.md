@@ -308,6 +308,36 @@ Remerciements et fin de la leçon (5 minutes).
   
 </details>
   
+ ### 📃 Générer une liste de vocabulaire pour une séance 
+  
+```
+Pour le jours 1 je veux une liste de termes de vocabulaire que les élèves devront apprendre 
+```
+
+
+<details>
+  <summary>Le résultat</summary>
+    
+  ```
+Voici une liste de termes de vocabulaire qui pourraient être inclus dans la leçon du jour 1 de l'unité sur la pensée cartésienne :
+
+René Descartes
+"Méditations métaphysiques"
+Pensée cartésienne
+Méthode cartésienne
+Cogito ergo sum
+Esprit
+Matière
+Philosophie moderne
+Philosophie contemporaine
+Courants de pensée
+Influence
+Pertinence.
+  
+  ```
+  
+</details>
+  
   
 </details>
 
